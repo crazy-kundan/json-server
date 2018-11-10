@@ -1,9 +1,32 @@
-{
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
-}
+[
+	{
+		"id":1,
+		"temp":125.6,
+		"humidity":60,
+		"date":"2014-07-23 09:00:00"
+	},
+	{
+		"id":2,
+		"temp":211.9,
+		"humidity":50,
+		"date":"2014-07-29 09:40:00"
+	},
+	{
+		"id":3,
+		"temp":169.6,
+		"humidity":26,
+		"date":"2016-08-21 07:00:00"
+	},
+	{
+		"id":4,
+		"temp":340,
+		"humidity":69,
+		"date":"2014-01-01 12:00:00"
+	},
+	{
+		"id":5,
+		"temp":129.6,
+		"humidity":30,
+		"date":"2014-05-24 07:10:40"
+	},
+]
